@@ -17,8 +17,8 @@ Maximum sampling duration: 80 seconds
 
 The data provided in this repository are publicly available for the purposes of outreach and research. If you use the data here provided you are kindly requested to cite this repository through the url https://github.com/CANA-Salerno/LightPollution and the following legal entities:
 
-Centro Astronomico "Neil Armstrong", Salerno
-Unione Astrofili Italiani
-Gruppo Astrofili Beneventani
-Voglio un Mondo Pulito
-CODACONS - Sportello Tecnologico
+(1) Centro Astronomico "Neil Armstrong", Salerno
+(2) Unione Astrofili Italiani
+(3) Gruppo Astrofili Beneventani
+(4) Voglio un Mondo Pulito
+(5) CODACONS - Sportello Tecnologico
