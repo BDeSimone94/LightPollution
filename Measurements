@@ -1,4 +1,4 @@
-Date(dd/mm/yyy)	Start-time(hh:mm,IT)	Location	Latitude(N°,',")	Longitude(E°,',")	Temperature(°C)	Weather	Series-no.	Measurements(x4,mag/arcs^2,V-band) Error	Mean	Mean(4x3)	Error(4x3)
+Date(dd/mm/yyy)	Start-time(hh:mm,IT)	Location	Latitude(N°,',")	Longitude(E°,',")	Temperature(°C)	Weather	Series-no.	Measurements(x4,mag/arcs^2,visible) Error	Mean	Mean(4x3)	Error(4x3)
 19-12-2022	18:36	Fisciano	40°46'30.418"	14°47'18.046"	15	Clear	1	18.31,18.30,18.31,18.28	0,014	18,300	18,302	0,037
 19-12-2022	18:36	Fisciano	40°46'30.418"	14°47'18.046"	15	Clear	2	18.31,18.33,18.32,18.33	0,009574271078	18,3225	-	-
 19-12-2022	18:36	Fisciano	40°46'30.418"	14°47'18.046"	15	Clear	3	18.26,18.28,18.26,18.33	0,03304037934	18,2825	-	-
