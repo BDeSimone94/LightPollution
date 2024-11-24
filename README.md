@@ -13,6 +13,7 @@ Half Width Half Maximum (HWHM) for the angular sensitivity: 42°
 Required: 9V battery
 Dimensions: 9.6 x 6.1 x 2.5
 Maximum sampling duration: 80 seconds
+
 Note: the SQM band is a visible bands+IR-cut mixture and it approximates the astronomical V-band, although differences are present. For more details, read the paper of S. Mander et al. 2023 (https://doi.org/10.1016/j.scs.2023.104465).
 *********************************
 
