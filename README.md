@@ -5,7 +5,7 @@
 # infocana@cana.it
 
 In this repository, we provide the measurements of the light pollution conducted in Salerno (Italy) and province thanks to the support of Unione Astrofili Italiani.
-The first measurements were performed on the 19th December 2022 and the repository currently contains measurements up to the 30th October 2024.
+The first measurements were performed on the 19th December 2022 and the repository currently contains measurements up to the 30th October 2024 (the end of the first cycle of measurements). We stress that this is a long-term project, still ongoing and seeking for future contributions from all the community. Your help and suggestions are of unvaluable importance! Contact us via mail at the address infocana@cana.it
 
 The instrument used for the measurements is the Sky Quality Meter produced by Unihedron (http://www.unihedron.com/projects/darksky/).
 
