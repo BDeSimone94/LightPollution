@@ -9,7 +9,6 @@ The first measurements were performed on the 19th December 2022 and the reposito
 
 The instrument used for the measurements is the Sky Quality Meter produced by Unihedron (http://www.unihedron.com/projects/darksky/).
 
-*********************************
 Half Width Half Maximum (HWHM) for the angular sensitivity: 42°
 Required: 9V battery
 Dimensions: 9.6 x 6.1 x 2.5
