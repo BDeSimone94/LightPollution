@@ -164,3 +164,10 @@ Date(dd/mm/yyyy)	Start_time(hh:mm_IT)	Location	Latitude(decimal)	Longitude(decim
 30/10/2024	21:10	Padula(Certosa)	40.3330	15.6495	15.4	Clear	1	20.36	20.38	20.38	20.36	0.000801875	20.37	20.28	0.015	69.8
 30/10/2024	21:10	Padula(Certosa)	40.3330	15.6495	15.4	Clear	2	20.38	20.03	20.36	20.28	0.011174228	20.26	-	-	69.8
 30/10/2024	21:10	Padula(Certosa)	40.3330	15.6495	15.4	Clear	3	20.37	20.05	20.18	20.24	0.009230279	20.21	-	-	69.8
+01/12/2024	21:35	Vallo_della_Lucania(Via_Tempone)	40.2391223	15.2707306	8	Clear_windy	1	19.96	19.92	19.96	19.92	-	-	-	-	55.4
+01/12/2024	21:35	Vallo_della_Lucania(Via_Tempone)	40.2391223	15.2707306	8	Clear_windy_bit-cloudy	2	19.87	19.85	19.81	19.75	-	-	-	-	55.4
+01/12/2024	21:35	Vallo_della_Lucania(Via_Tempone)	40.2391223	15.2707306	8	Clear_windy_cloud_at_zenit	3	19.73	19.68	19.72	19.66	-	-	-	-	55.4
+01/12/2024	22:30	MonteGelbison	40.214723	15.3349963	2.5	Clear	1	21.27	21.38	21.32	21.27	-	-	-	-	51.3
+01/12/2024	22:30	MonteGelbison	40.214723	15.3349963	2.5	Clear_partially_cloudy	2	21.22	21.37	21.23	21.12	-	-	-	-	51.3
+01/12/2024	22:30	MonteGelbison	40.214723	15.3349963	2.5	Clear_highly_cloudy	3	21.17	21.03	21.12	21.12	-	-	-	-	51.3
+
