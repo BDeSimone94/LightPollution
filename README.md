@@ -19,7 +19,7 @@ Note: the SQM band is a visible bands+IR-cut mixture and it approximates the ast
 
 The data provided in this repository are publicly available for the purposes of outreach and research. If you use the data here provided you are kindly requested to cite this repository through the url https://github.com/CANA-Salerno/LightPollution and the following legal entities:
 
-(1) Centro Astronomico "Neil Armstrong", Salerno
+(1) Centro Astronomico "Neil Armstrong" - Salerno
 
 (2) Unione Astrofili Italiani
 
@@ -67,4 +67,6 @@ Error(4x3): the error of the 3x4 series of measurements (quadrature)
 Relative_humidity(percentage): the relative humidity (RH) measured during the detection of the 4 measurements in each series (expressed in percentage)
 
 
-NOTE: the RH measurements are available only after 03/04/2024. For more details about the used instrument, please contact infocana@cana.it
+NOTE(1): the RH measurements are available only after 03/04/2024. For more details about the used instrument, please contact infocana@cana.it
+
+NOTE(2): the mean and the error on the 3x4 series are computed only in case of stable and clear weather in all of the 3 series. In the other cases, rather than the average, it is advisable to use the highest magnitude value as the reference one.
